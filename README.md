@@ -1,6 +1,7 @@
-# Amplify
+# AWS Amplify Flutter
 
-A Flutter app with AWS Amplify using the Auth, Storage and Analytics services.
+A Flutter app with AWS Amplify using the Auth, Storage and Analytics services. You can watch the intro video here:-
+https://drive.google.com/file/d/1XC7m50gObESDl2PFAYJekZnoGeZCi9E_/view
 
 ## Getting Started
 
@@ -11,6 +12,7 @@ A Flutter app with AWS Amplify using the Auth, Storage and Analytics services.
 - You can use Android Studio, IntelliJ or Visual Studio Code with the Flutter plugin to build and run the app, or type the following command in the command line:-
   
       flutter run
+
 
 ##Refs
 - Announcing AWS Amplify Flutter (Developer Preview) (https://aws.amazon.com/blogs/mobile/announcing-aws-amplify-flutter-developer-preview)
